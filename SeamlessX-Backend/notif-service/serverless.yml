@@ -1,0 +1,22 @@
+service: notif-service
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: nodejs18.x
+  region: ap-southeast-2
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+      - sns:Publish
+      - sns:Subscribe
+      Resource:
+      - !Sub 'arn:aws:sns:ap-southeast-2:711960976249:offerTopic'
+
+functions:
+  api:
+    handler: notif_service.handler
+    events:
+      - httpApi: '*'
+plugins:
+  - serverless-offline
