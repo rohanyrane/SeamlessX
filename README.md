@@ -29,17 +29,17 @@ A React-Native application to engage customers based on their location and promo
 
 ### Location Change - Backend
 <div align="center">
-  ![5](https://github.com/sandeepB3/SeamlessX/assets/107111616/85bdf493-b32e-42fa-a3bf-c0bd63f74129)
+  <img src="https://github.com/sandeepB3/SeamlessX/assets/107111616/43358ee0-13fb-4ffe-b90f-fe82780b742d">
 </div>
 
 ### Offer Fetching - Backend
 <div align="center">
-    ![6](https://github.com/sandeepB3/SeamlessX/assets/107111616/2488091c-d7b5-45b8-b10e-137c217c592d)
+    <img src="https://github.com/sandeepB3/SeamlessX/assets/107111616/2488091c-d7b5-45b8-b10e-137c217c592d">
 </div>
 
 ### Email Notify Service
 <div align="center">
-  ![7](https://github.com/sandeepB3/SeamlessX/assets/107111616/96f7f9ff-3f21-4527-921e-18a603cf0181)
+  <img src="https://github.com/sandeepB3/SeamlessX/assets/107111616/96f7f9ff-3f21-4527-921e-18a603cf0181">
 </div>
 
 ## Future Scope
